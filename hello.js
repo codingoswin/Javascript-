@@ -1,6 +1,6 @@
-const hello = (name) => {
+const sayHello = () => {
 
-    return console.log('Hello ${name}');
+    return 'hello';
 }
 
-hello('Oswin');
+hello();
